@@ -1,0 +1,30 @@
+Data Dictionary for "The Maslow Trap" Manuscript
+
+1. growth_stage_mature.csv (GS6 population) Figure5_SourceData.csv
+   - accession: Johnsongrass clone ID
+   - growth_stage: Developmental stage (GS6)
+   - score: Anthracnose severity score (1–5)
+
+2. regrowth_round_master.csv (Regrowth resilience) Figure3_SourceData.csv
+   - host: Host genotype ID
+   - isolate: Pathogen isolate ID
+   - round: 1 (pre-cut) or 2 (post-regrowth)
+   - score: Severity score (1–5)
+
+3. rhizome_master.csv (Leaf vs. rhizome) Figure4_SourceData.csv
+   - Experiment_ID: Experimental batch ID
+   - accession: Host genotype ID
+   - isolate: Pathogen isolate ID
+   - tissue: Leaf or Rhizome
+   - score: Severity score (1–5)
+
+4. surface_treatment_master.csv (Surface integrity)Figure2_SourceData.csv
+   - host: Host genotype ID
+   - isolate: Pathogen isolate ID
+   - tissue: Blade or Midrib
+   - surface_treatment: Control / Imprint / Rubbed / Surfactant
+   - score: Severity score (1–5)
+
+5. Supplementary_Data_S1.xlsx
+   - surface_barriers, regrowth_barriers, regrowth_delta, rhizome_barriers, GS6_barriers, etc.
+     contain probabilities of advanced infection P and barrier heights B = −ln(P) for all conditions described.
