@@ -1,0 +1,649 @@
+host,isolate,tissue,surface_treatment,score
+BTx623,AMP27,blade,Control,5
+BTx623,AMP27,blade,Control,4.333
+BTx623,AMP27,blade,Control,3.333
+BTx623,AMP27,blade,Control,4.333
+BTx623,AMP27,blade,Control,5
+BTx623,AMP27,blade,Control,5
+BTx623,AMP27,blade,Control,5
+BTx623,AMP27,blade,Control,5
+BTx623,AMP27,blade,Control,4.667
+BTx623,AMP27,blade,Control,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,4
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Imprinting,5
+BTx623,AMP27,blade,Tween 20,2.333
+BTx623,AMP27,blade,Tween 20,5
+BTx623,AMP27,blade,Tween 20,2
+BTx623,AMP27,blade,Tween 20,5
+BTx623,AMP27,blade,Tween 20,4.667
+BTx623,AMP27,blade,Tween 20,5
+BTx623,AMP27,blade,Tween 20,5
+BTx623,AMP27,blade,Tween 20,5
+BTx623,AMP27,blade,Tween 20,3.667
+BTx623,AMP27,blade,Tween 20,4.667
+BTx623,AMP27,midrib,Control,3.333
+BTx623,AMP27,midrib,Control,3
+BTx623,AMP27,midrib,Control,2
+BTx623,AMP27,midrib,Control,1
+BTx623,AMP27,midrib,Control,5
+BTx623,AMP27,midrib,Control,1
+BTx623,AMP27,midrib,Control,2.333
+BTx623,AMP27,midrib,Control,3.667
+BTx623,AMP27,midrib,Control,3.667
+BTx623,AMP27,midrib,Control,2.667
+BTx623,AMP27,midrib,Imprinting,4
+BTx623,AMP27,midrib,Imprinting,4.333
+BTx623,AMP27,midrib,Imprinting,4.667
+BTx623,AMP27,midrib,Imprinting,3.667
+BTx623,AMP27,midrib,Imprinting,4.333
+BTx623,AMP27,midrib,Imprinting,3
+BTx623,AMP27,midrib,Imprinting,3.333
+BTx623,AMP27,midrib,Imprinting,3.667
+BTx623,AMP27,midrib,Imprinting,1.667
+BTx623,AMP27,midrib,Imprinting,1
+BTx623,AMP27,midrib,Tween 20,1.667
+BTx623,AMP27,midrib,Tween 20,3.667
+BTx623,AMP27,midrib,Tween 20,1
+BTx623,AMP27,midrib,Tween 20,3
+BTx623,AMP27,midrib,Tween 20,2.667
+BTx623,AMP27,midrib,Tween 20,1.667
+BTx623,AMP27,midrib,Tween 20,2.667
+BTx623,AMP27,midrib,Tween 20,3.667
+BTx623,AMP27,midrib,Tween 20,1.333
+BTx623,AMP27,midrib,Tween 20,1
+BTx623,FSP35,blade,Control,4.333
+BTx623,FSP35,blade,Control,2
+BTx623,FSP35,blade,Control,2.333
+BTx623,FSP35,blade,Control,4
+BTx623,FSP35,blade,Control,4.333
+BTx623,FSP35,blade,Control,3.333
+BTx623,FSP35,blade,Control,1
+BTx623,FSP35,blade,Control,1
+BTx623,FSP35,blade,Control,2.333
+BTx623,FSP35,blade,Control,2
+BTx623,FSP35,blade,Imprinting,5
+BTx623,FSP35,blade,Imprinting,4
+BTx623,FSP35,blade,Imprinting,4.333
+BTx623,FSP35,blade,Imprinting,4.667
+BTx623,FSP35,blade,Imprinting,5
+BTx623,FSP35,blade,Imprinting,3.667
+BTx623,FSP35,blade,Imprinting,1
+BTx623,FSP35,blade,Imprinting,2
+BTx623,FSP35,blade,Imprinting,1.667
+BTx623,FSP35,blade,Imprinting,2.667
+BTx623,FSP35,blade,Tween 20,2
+BTx623,FSP35,blade,Tween 20,1.333
+BTx623,FSP35,blade,Tween 20,1
+BTx623,FSP35,blade,Tween 20,1.333
+BTx623,FSP35,blade,Tween 20,3.667
+BTx623,FSP35,blade,Tween 20,2.333
+BTx623,FSP35,blade,Tween 20,2.333
+BTx623,FSP35,blade,Tween 20,1.333
+BTx623,FSP35,blade,Tween 20,1.667
+BTx623,FSP35,blade,Tween 20,1
+BTx623,FSP35,midrib,Control,1
+BTx623,FSP35,midrib,Control,1.667
+BTx623,FSP35,midrib,Control,1.333
+BTx623,FSP35,midrib,Control,1
+BTx623,FSP35,midrib,Control,2
+BTx623,FSP35,midrib,Control,1.667
+BTx623,FSP35,midrib,Control,1
+BTx623,FSP35,midrib,Control,1
+BTx623,FSP35,midrib,Control,1.667
+BTx623,FSP35,midrib,Control,1.333
+BTx623,FSP35,midrib,Imprinting,1
+BTx623,FSP35,midrib,Imprinting,1.667
+BTx623,FSP35,midrib,Imprinting,1
+BTx623,FSP35,midrib,Imprinting,1.667
+BTx623,FSP35,midrib,Imprinting,1.667
+BTx623,FSP35,midrib,Imprinting,1.667
+BTx623,FSP35,midrib,Imprinting,1
+BTx623,FSP35,midrib,Imprinting,1.333
+BTx623,FSP35,midrib,Imprinting,1.667
+BTx623,FSP35,midrib,Imprinting,1
+BTx623,FSP35,midrib,Tween 20,1
+BTx623,FSP35,midrib,Tween 20,1.333
+BTx623,FSP35,midrib,Tween 20,1
+BTx623,FSP35,midrib,Tween 20,1.333
+BTx623,FSP35,midrib,Tween 20,1
+BTx623,FSP35,midrib,Tween 20,1.333
+BTx623,FSP35,midrib,Tween 20,1
+BTx623,FSP35,midrib,Tween 20,1
+BTx623,FSP35,midrib,Tween 20,1.667
+BTx623,FSP35,midrib,Tween 20,1
+BTx623,FSP53,blade,Control,5
+BTx623,FSP53,blade,Control,5
+BTx623,FSP53,blade,Control,3.667
+BTx623,FSP53,blade,Control,3.667
+BTx623,FSP53,blade,Control,5
+BTx623,FSP53,blade,Control,5
+BTx623,FSP53,blade,Control,2.667
+BTx623,FSP53,blade,Control,2.333
+BTx623,FSP53,blade,Control,4.667
+BTx623,FSP53,blade,Control,4.333
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Rubbed,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,5
+BTx623,FSP53,blade,Tween 20,3
+BTx623,FSP53,blade,Tween 20,4.667
+BTx623,FSP53,midrib,Control,1
+BTx623,FSP53,midrib,Control,1.333
+BTx623,FSP53,midrib,Control,2.667
+BTx623,FSP53,midrib,Control,1
+BTx623,FSP53,midrib,Control,3.333
+BTx623,FSP53,midrib,Control,1
+BTx623,FSP53,midrib,Control,2.333
+BTx623,FSP53,midrib,Control,1
+BTx623,FSP53,midrib,Control,1.667
+BTx623,FSP53,midrib,Control,1.333
+BTx623,FSP53,midrib,Rubbed,2
+BTx623,FSP53,midrib,Rubbed,2.667
+BTx623,FSP53,midrib,Rubbed,5
+BTx623,FSP53,midrib,Rubbed,2
+BTx623,FSP53,midrib,Rubbed,5
+BTx623,FSP53,midrib,Rubbed,1.333
+BTx623,FSP53,midrib,Rubbed,3.667
+BTx623,FSP53,midrib,Rubbed,5
+BTx623,FSP53,midrib,Rubbed,2
+BTx623,FSP53,midrib,Rubbed,1
+BTx623,FSP53,midrib,Tween 20,3.667
+BTx623,FSP53,midrib,Tween 20,3.667
+BTx623,FSP53,midrib,Tween 20,3.667
+BTx623,FSP53,midrib,Tween 20,5
+BTx623,FSP53,midrib,Tween 20,4
+BTx623,FSP53,midrib,Tween 20,3.667
+BTx623,FSP53,midrib,Tween 20,2
+BTx623,FSP53,midrib,Tween 20,1.667
+BTx623,FSP53,midrib,Tween 20,1
+BTx623,FSP53,midrib,Tween 20,1.333
+PI609251,AMP27,blade,Control,3.667
+PI609251,AMP27,blade,Control,5
+PI609251,AMP27,blade,Control,5
+PI609251,AMP27,blade,Control,5
+PI609251,AMP27,blade,Control,5
+PI609251,AMP27,blade,Control,5
+PI609251,AMP27,blade,Control,1.667
+PI609251,AMP27,blade,Control,4.667
+PI609251,AMP27,blade,Control,5
+PI609251,AMP27,blade,Control,4.667
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Imprinting,5
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,4.667
+PI609251,AMP27,blade,Tween 20,5
+PI609251,AMP27,blade,Tween 20,3.333
+PI609251,AMP27,blade,Tween 20,4.667
+PI609251,AMP27,midrib,Control,2
+PI609251,AMP27,midrib,Control,5
+PI609251,AMP27,midrib,Control,5
+PI609251,AMP27,midrib,Control,3.667
+PI609251,AMP27,midrib,Control,4.333
+PI609251,AMP27,midrib,Control,4.333
+PI609251,AMP27,midrib,Control,1
+PI609251,AMP27,midrib,Control,1.667
+PI609251,AMP27,midrib,Control,1.333
+PI609251,AMP27,midrib,Control,1.667
+PI609251,AMP27,midrib,Imprinting,3
+PI609251,AMP27,midrib,Imprinting,4
+PI609251,AMP27,midrib,Imprinting,5
+PI609251,AMP27,midrib,Imprinting,4.333
+PI609251,AMP27,midrib,Imprinting,4.667
+PI609251,AMP27,midrib,Imprinting,2.667
+PI609251,AMP27,midrib,Imprinting,2.667
+PI609251,AMP27,midrib,Imprinting,5
+PI609251,AMP27,midrib,Imprinting,4.333
+PI609251,AMP27,midrib,Imprinting,4.333
+PI609251,AMP27,midrib,Tween 20,4
+PI609251,AMP27,midrib,Tween 20,5
+PI609251,AMP27,midrib,Tween 20,4.333
+PI609251,AMP27,midrib,Tween 20,5
+PI609251,AMP27,midrib,Tween 20,2.667
+PI609251,AMP27,midrib,Tween 20,2.667
+PI609251,AMP27,midrib,Tween 20,1
+PI609251,AMP27,midrib,Tween 20,2.333
+PI609251,AMP27,midrib,Tween 20,1
+PI609251,AMP27,midrib,Tween 20,2.667
+PI609251,FSP35,blade,Control,3
+PI609251,FSP35,blade,Control,5
+PI609251,FSP35,blade,Control,5
+PI609251,FSP35,blade,Control,5
+PI609251,FSP35,blade,Control,5
+PI609251,FSP35,blade,Control,5
+PI609251,FSP35,blade,Control,2
+PI609251,FSP35,blade,Control,1
+PI609251,FSP35,blade,Control,2
+PI609251,FSP35,blade,Control,1.667
+PI609251,FSP35,blade,Imprinting,5
+PI609251,FSP35,blade,Imprinting,5
+PI609251,FSP35,blade,Imprinting,5
+PI609251,FSP35,blade,Imprinting,5
+PI609251,FSP35,blade,Imprinting,5
+PI609251,FSP35,blade,Imprinting,5
+PI609251,FSP35,blade,Imprinting,1
+PI609251,FSP35,blade,Imprinting,2.333
+PI609251,FSP35,blade,Imprinting,3.333
+PI609251,FSP35,blade,Imprinting,4
+PI609251,FSP35,blade,Tween 20,5
+PI609251,FSP35,blade,Tween 20,5
+PI609251,FSP35,blade,Tween 20,5
+PI609251,FSP35,blade,Tween 20,5
+PI609251,FSP35,blade,Tween 20,4.667
+PI609251,FSP35,blade,Tween 20,5
+PI609251,FSP35,blade,Tween 20,3.333
+PI609251,FSP35,blade,Tween 20,1
+PI609251,FSP35,blade,Tween 20,4
+PI609251,FSP35,blade,Tween 20,2.333
+PI609251,FSP35,midrib,Control,1.667
+PI609251,FSP35,midrib,Control,4.333
+PI609251,FSP35,midrib,Control,2
+PI609251,FSP35,midrib,Control,3.333
+PI609251,FSP35,midrib,Control,3.333
+PI609251,FSP35,midrib,Control,2
+PI609251,FSP35,midrib,Control,1.333
+PI609251,FSP35,midrib,Control,1.333
+PI609251,FSP35,midrib,Control,1.333
+PI609251,FSP35,midrib,Control,1.333
+PI609251,FSP35,midrib,Imprinting,4
+PI609251,FSP35,midrib,Imprinting,4.333
+PI609251,FSP35,midrib,Imprinting,5
+PI609251,FSP35,midrib,Imprinting,4
+PI609251,FSP35,midrib,Imprinting,1.333
+PI609251,FSP35,midrib,Imprinting,1.667
+PI609251,FSP35,midrib,Imprinting,1
+PI609251,FSP35,midrib,Imprinting,1.333
+PI609251,FSP35,midrib,Imprinting,1.333
+PI609251,FSP35,midrib,Imprinting,2
+PI609251,FSP35,midrib,Tween 20,1.667
+PI609251,FSP35,midrib,Tween 20,5
+PI609251,FSP35,midrib,Tween 20,3.667
+PI609251,FSP35,midrib,Tween 20,3.333
+PI609251,FSP35,midrib,Tween 20,2.333
+PI609251,FSP35,midrib,Tween 20,2.333
+PI609251,FSP35,midrib,Tween 20,1.333
+PI609251,FSP35,midrib,Tween 20,3
+PI609251,FSP35,midrib,Tween 20,1.333
+PI609251,FSP35,midrib,Tween 20,1
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,4.333
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,5
+PI609251,FSP53,blade,Control,4.333
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,5
+PI609251,FSP53,blade,Imprinting,2.333
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,blade,Tween 20,5
+PI609251,FSP53,midrib,Control,1.667
+PI609251,FSP53,midrib,Control,4.333
+PI609251,FSP53,midrib,Control,4.667
+PI609251,FSP53,midrib,Control,4.667
+PI609251,FSP53,midrib,Control,2.667
+PI609251,FSP53,midrib,Control,3.667
+PI609251,FSP53,midrib,Control,1.667
+PI609251,FSP53,midrib,Control,4
+PI609251,FSP53,midrib,Control,1.667
+PI609251,FSP53,midrib,Control,1.333
+PI609251,FSP53,midrib,Imprinting,3.667
+PI609251,FSP53,midrib,Imprinting,3
+PI609251,FSP53,midrib,Imprinting,4
+PI609251,FSP53,midrib,Imprinting,2.333
+PI609251,FSP53,midrib,Imprinting,3.333
+PI609251,FSP53,midrib,Imprinting,4.333
+PI609251,FSP53,midrib,Imprinting,2.333
+PI609251,FSP53,midrib,Imprinting,3.667
+PI609251,FSP53,midrib,Imprinting,1.667
+PI609251,FSP53,midrib,Imprinting,1.667
+PI609251,FSP53,midrib,Tween 20,3
+PI609251,FSP53,midrib,Tween 20,5
+PI609251,FSP53,midrib,Tween 20,4.333
+PI609251,FSP53,midrib,Tween 20,5
+PI609251,FSP53,midrib,Tween 20,3
+PI609251,FSP53,midrib,Tween 20,3
+PI609251,FSP53,midrib,Tween 20,2.667
+PI609251,FSP53,midrib,Tween 20,2
+PI609251,FSP53,midrib,Tween 20,1.333
+PI609251,FSP53,midrib,Tween 20,1.333
+SH1152,AMP27,blade,Control,3
+SH1152,AMP27,blade,Control,2
+SH1152,AMP27,blade,Control,2
+SH1152,AMP27,blade,Control,5
+SH1152,AMP27,blade,Control,4.667
+SH1152,AMP27,blade,Control,2
+SH1152,AMP27,blade,Imprinting,2
+SH1152,AMP27,blade,Imprinting,1.333
+SH1152,AMP27,blade,Imprinting,1.667
+SH1152,AMP27,blade,Imprinting,3.667
+SH1152,AMP27,blade,Imprinting,4
+SH1152,AMP27,blade,Imprinting,2.667
+SH1152,AMP27,blade,Tween 20,4
+SH1152,AMP27,blade,Tween 20,1
+SH1152,AMP27,blade,Tween 20,1.667
+SH1152,AMP27,blade,Tween 20,4
+SH1152,AMP27,blade,Tween 20,5
+SH1152,AMP27,blade,Tween 20,4.333
+SH1152,AMP27,midrib,Control,1.333
+SH1152,AMP27,midrib,Control,1
+SH1152,AMP27,midrib,Control,1.333
+SH1152,AMP27,midrib,Control,1.333
+SH1152,AMP27,midrib,Control,1.333
+SH1152,AMP27,midrib,Control,1.667
+SH1152,AMP27,midrib,Imprinting,1.667
+SH1152,AMP27,midrib,Imprinting,1.333
+SH1152,AMP27,midrib,Imprinting,1
+SH1152,AMP27,midrib,Imprinting,1
+SH1152,AMP27,midrib,Imprinting,1.333
+SH1152,AMP27,midrib,Imprinting,1.667
+SH1152,AMP27,midrib,Tween 20,2
+SH1152,AMP27,midrib,Tween 20,1
+SH1152,AMP27,midrib,Tween 20,1
+SH1152,AMP27,midrib,Tween 20,1
+SH1152,AMP27,midrib,Tween 20,1.333
+SH1152,AMP27,midrib,Tween 20,1
+SH1152,FSP35,blade,Control,1.333
+SH1152,FSP35,blade,Control,1.333
+SH1152,FSP35,blade,Control,1.333
+SH1152,FSP35,blade,Control,1
+SH1152,FSP35,blade,Control,2.333
+SH1152,FSP35,blade,Control,1.667
+SH1152,FSP35,blade,Imprinting,2.333
+SH1152,FSP35,blade,Imprinting,1.333
+SH1152,FSP35,blade,Imprinting,1
+SH1152,FSP35,blade,Imprinting,1.333
+SH1152,FSP35,blade,Imprinting,1
+SH1152,FSP35,blade,Imprinting,1
+SH1152,FSP35,blade,Tween 20,1
+SH1152,FSP35,blade,Tween 20,1
+SH1152,FSP35,blade,Tween 20,1
+SH1152,FSP35,blade,Tween 20,1
+SH1152,FSP35,blade,Tween 20,2
+SH1152,FSP35,blade,Tween 20,1
+SH1152,FSP35,midrib,Control,1.667
+SH1152,FSP35,midrib,Control,1.667
+SH1152,FSP35,midrib,Control,1
+SH1152,FSP35,midrib,Control,1
+SH1152,FSP35,midrib,Control,1.333
+SH1152,FSP35,midrib,Control,1.333
+SH1152,FSP35,midrib,Imprinting,1.75
+SH1152,FSP35,midrib,Imprinting,1.333
+SH1152,FSP35,midrib,Imprinting,1
+SH1152,FSP35,midrib,Imprinting,1
+SH1152,FSP35,midrib,Imprinting,1
+SH1152,FSP35,midrib,Imprinting,1.667
+SH1152,FSP35,midrib,Tween 20,1.333
+SH1152,FSP35,midrib,Tween 20,1.333
+SH1152,FSP35,midrib,Tween 20,1
+SH1152,FSP35,midrib,Tween 20,1
+SH1152,FSP35,midrib,Tween 20,1
+SH1152,FSP35,midrib,Tween 20,1
+SH1152,FSP53,blade,Control,3
+SH1152,FSP53,blade,Control,1.333
+SH1152,FSP53,blade,Control,1
+SH1152,FSP53,blade,Control,4.667
+SH1152,FSP53,blade,Control,4.333
+SH1152,FSP53,blade,Control,2
+SH1152,FSP53,blade,Imprinting,2.667
+SH1152,FSP53,blade,Imprinting,1.333
+SH1152,FSP53,blade,Imprinting,1.333
+SH1152,FSP53,blade,Imprinting,5
+SH1152,FSP53,blade,Imprinting,5
+SH1152,FSP53,blade,Imprinting,3.667
+SH1152,FSP53,blade,Tween 20,4
+SH1152,FSP53,blade,Tween 20,1.333
+SH1152,FSP53,blade,Tween 20,1.667
+SH1152,FSP53,blade,Tween 20,4
+SH1152,FSP53,blade,Tween 20,2.667
+SH1152,FSP53,blade,Tween 20,2.667
+SH1152,FSP53,midrib,Control,1
+SH1152,FSP53,midrib,Control,1
+SH1152,FSP53,midrib,Control,1.333
+SH1152,FSP53,midrib,Control,1
+SH1152,FSP53,midrib,Control,1
+SH1152,FSP53,midrib,Control,1
+SH1152,FSP53,midrib,Imprinting,1
+SH1152,FSP53,midrib,Imprinting,1.333
+SH1152,FSP53,midrib,Imprinting,1
+SH1152,FSP53,midrib,Imprinting,1
+SH1152,FSP53,midrib,Imprinting,1
+SH1152,FSP53,midrib,Imprinting,1
+SH1152,FSP53,midrib,Tween 20,1
+SH1152,FSP53,midrib,Tween 20,1
+SH1152,FSP53,midrib,Tween 20,1
+SH1152,FSP53,midrib,Tween 20,1
+SH1152,FSP53,midrib,Tween 20,1.333
+SH1152,FSP53,midrib,Tween 20,1
+TAM428,AMP27,blade,Control,3.333
+TAM428,AMP27,blade,Control,4.333
+TAM428,AMP27,blade,Control,2.333
+TAM428,AMP27,blade,Control,3.333
+TAM428,AMP27,blade,Control,3
+TAM428,AMP27,blade,Control,3.333
+TAM428,AMP27,blade,Control,1
+TAM428,AMP27,blade,Control,1
+TAM428,AMP27,blade,Control,2.333
+TAM428,AMP27,blade,Control,1.667
+TAM428,AMP27,blade,Rubbed,2.667
+TAM428,AMP27,blade,Rubbed,5
+TAM428,AMP27,blade,Rubbed,4.333
+TAM428,AMP27,blade,Rubbed,4.333
+TAM428,AMP27,blade,Rubbed,4.333
+TAM428,AMP27,blade,Rubbed,5
+TAM428,AMP27,blade,Rubbed,1.667
+TAM428,AMP27,blade,Rubbed,4.333
+TAM428,AMP27,blade,Rubbed,5
+TAM428,AMP27,blade,Rubbed,5
+TAM428,AMP27,blade,Tween 20,2.667
+TAM428,AMP27,blade,Tween 20,5
+TAM428,AMP27,blade,Tween 20,5
+TAM428,AMP27,blade,Tween 20,2.667
+TAM428,AMP27,blade,Tween 20,3.667
+TAM428,AMP27,blade,Tween 20,2.333
+TAM428,AMP27,blade,Tween 20,1.667
+TAM428,AMP27,blade,Tween 20,2.667
+TAM428,AMP27,blade,Tween 20,3.333
+TAM428,AMP27,blade,Tween 20,3.333
+TAM428,AMP27,midrib,Control,1.333
+TAM428,AMP27,midrib,Control,1.667
+TAM428,AMP27,midrib,Control,2
+TAM428,AMP27,midrib,Control,1.333
+TAM428,AMP27,midrib,Control,1.333
+TAM428,AMP27,midrib,Control,1
+TAM428,AMP27,midrib,Control,1
+TAM428,AMP27,midrib,Control,1
+TAM428,AMP27,midrib,Control,1
+TAM428,AMP27,midrib,Control,1
+TAM428,AMP27,midrib,Rubbed,1.333
+TAM428,AMP27,midrib,Rubbed,2.333
+TAM428,AMP27,midrib,Rubbed,1.667
+TAM428,AMP27,midrib,Rubbed,2
+TAM428,AMP27,midrib,Rubbed,1.333
+TAM428,AMP27,midrib,Rubbed,2.333
+TAM428,AMP27,midrib,Rubbed,1.667
+TAM428,AMP27,midrib,Rubbed,1.667
+TAM428,AMP27,midrib,Rubbed,1
+TAM428,AMP27,midrib,Rubbed,2.667
+TAM428,AMP27,midrib,Tween 20,1.667
+TAM428,AMP27,midrib,Tween 20,1.333
+TAM428,AMP27,midrib,Tween 20,1.667
+TAM428,AMP27,midrib,Tween 20,1
+TAM428,AMP27,midrib,Tween 20,1.333
+TAM428,AMP27,midrib,Tween 20,1.333
+TAM428,AMP27,midrib,Tween 20,1
+TAM428,AMP27,midrib,Tween 20,1
+TAM428,AMP27,midrib,Tween 20,1.667
+TAM428,AMP27,midrib,Tween 20,1
+TAM428,FSP35,blade,Control,1
+TAM428,FSP35,blade,Control,1.333
+TAM428,FSP35,blade,Control,1
+TAM428,FSP35,blade,Control,1.667
+TAM428,FSP35,blade,Control,1
+TAM428,FSP35,blade,Control,1.667
+TAM428,FSP35,blade,Control,1.333
+TAM428,FSP35,blade,Control,1
+TAM428,FSP35,blade,Control,1.667
+TAM428,FSP35,blade,Control,1.667
+TAM428,FSP35,blade,Rubbed,3
+TAM428,FSP35,blade,Rubbed,2.667
+TAM428,FSP35,blade,Rubbed,1
+TAM428,FSP35,blade,Rubbed,2.667
+TAM428,FSP35,blade,Rubbed,4
+TAM428,FSP35,blade,Rubbed,1
+TAM428,FSP35,blade,Rubbed,2
+TAM428,FSP35,blade,Rubbed,3.333
+TAM428,FSP35,blade,Rubbed,2.333
+TAM428,FSP35,blade,Rubbed,1.333
+TAM428,FSP35,blade,Tween 20,3
+TAM428,FSP35,blade,Tween 20,1.667
+TAM428,FSP35,blade,Tween 20,1.333
+TAM428,FSP35,blade,Tween 20,2.333
+TAM428,FSP35,blade,Tween 20,1.333
+TAM428,FSP35,blade,Tween 20,1
+TAM428,FSP35,blade,Tween 20,1
+TAM428,FSP35,blade,Tween 20,1.667
+TAM428,FSP35,blade,Tween 20,2
+TAM428,FSP35,blade,Tween 20,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1.333
+TAM428,FSP35,midrib,Control,1.333
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Control,1
+TAM428,FSP35,midrib,Rubbed,1
+TAM428,FSP35,midrib,Rubbed,1
+TAM428,FSP35,midrib,Rubbed,1
+TAM428,FSP35,midrib,Rubbed,1
+TAM428,FSP35,midrib,Rubbed,1.333
+TAM428,FSP35,midrib,Rubbed,1
+TAM428,FSP35,midrib,Rubbed,2.667
+TAM428,FSP35,midrib,Rubbed,2
+TAM428,FSP35,midrib,Rubbed,2
+TAM428,FSP35,midrib,Rubbed,1
+TAM428,FSP35,midrib,Tween 20,1.333
+TAM428,FSP35,midrib,Tween 20,1
+TAM428,FSP35,midrib,Tween 20,1
+TAM428,FSP35,midrib,Tween 20,1
+TAM428,FSP35,midrib,Tween 20,1.667
+TAM428,FSP35,midrib,Tween 20,1
+TAM428,FSP35,midrib,Tween 20,1
+TAM428,FSP35,midrib,Tween 20,1.333
+TAM428,FSP35,midrib,Tween 20,1.333
+TAM428,FSP35,midrib,Tween 20,1
+TAM428,FSP53,blade,Control,1.667
+TAM428,FSP53,blade,Control,1
+TAM428,FSP53,blade,Control,1
+TAM428,FSP53,blade,Control,1
+TAM428,FSP53,blade,Control,2
+TAM428,FSP53,blade,Control,4
+TAM428,FSP53,blade,Control,1.667
+TAM428,FSP53,blade,Control,2.667
+TAM428,FSP53,blade,Control,3.333
+TAM428,FSP53,blade,Control,3.333
+TAM428,FSP53,blade,Rubbed,5
+TAM428,FSP53,blade,Rubbed,5
+TAM428,FSP53,blade,Rubbed,3.667
+TAM428,FSP53,blade,Rubbed,3.667
+TAM428,FSP53,blade,Rubbed,4.333
+TAM428,FSP53,blade,Rubbed,5
+TAM428,FSP53,blade,Rubbed,1.333
+TAM428,FSP53,blade,Rubbed,5
+TAM428,FSP53,blade,Rubbed,5
+TAM428,FSP53,blade,Rubbed,1
+TAM428,FSP53,blade,Tween 20,2
+TAM428,FSP53,blade,Tween 20,4.333
+TAM428,FSP53,blade,Tween 20,2
+TAM428,FSP53,blade,Tween 20,3.667
+TAM428,FSP53,blade,Tween 20,2.333
+TAM428,FSP53,blade,Tween 20,1
+TAM428,FSP53,blade,Tween 20,2.333
+TAM428,FSP53,blade,Tween 20,1.333
+TAM428,FSP53,blade,Tween 20,3.333
+TAM428,FSP53,blade,Tween 20,1
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1.667
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Control,1.667
+TAM428,FSP53,midrib,Control,1
+TAM428,FSP53,midrib,Rubbed,1
+TAM428,FSP53,midrib,Rubbed,3
+TAM428,FSP53,midrib,Rubbed,2.333
+TAM428,FSP53,midrib,Rubbed,1
+TAM428,FSP53,midrib,Rubbed,1
+TAM428,FSP53,midrib,Rubbed,1
+TAM428,FSP53,midrib,Rubbed,1.667
+TAM428,FSP53,midrib,Rubbed,2.333
+TAM428,FSP53,midrib,Rubbed,1.333
+TAM428,FSP53,midrib,Rubbed,1.333
+TAM428,FSP53,midrib,Tween 20,1
+TAM428,FSP53,midrib,Tween 20,2
+TAM428,FSP53,midrib,Tween 20,1.333
+TAM428,FSP53,midrib,Tween 20,1
+TAM428,FSP53,midrib,Tween 20,1.333
+TAM428,FSP53,midrib,Tween 20,1
+TAM428,FSP53,midrib,Tween 20,2.333
+TAM428,FSP53,midrib,Tween 20,2
+TAM428,FSP53,midrib,Tween 20,1.333
+TAM428,FSP53,midrib,Tween 20,1.333
