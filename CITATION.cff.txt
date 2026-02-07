@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated manuscript."
+title: "Maslow Barrier: Ordinal disease scores to probabilistic barriers"
+authors:
+  - family-names: "Ahn"
+    given-names: "Ezekiel"
+  - family-names: "Lim"
+    given-names: "Seunghyun"
+  - family-names: "Baek"
+    given-names: "Insuck"
+  - family-names: "Kim"
+    given-names: "Moon S."
+  - family-names: "Meinhardt"
+    given-names: "Lyndel W."
+repository-code: "https://github.com/EJSAHN/maslow-index-barrier"
+license: "CC0-1.0"
+keywords:
+  - plant pathology
+  - ecological informatics
+  - ordinal data
+  - probabilistic modeling
+preferred-citation:
+  type: article
+  title: "From ordinal disease scores to probabilistic barriers: a reusable metric for resilience and defense allocation"
+  authors:
+    - family-names: "Ahn"
+      given-names: "Ezekiel"
+    - family-names: "Lim"
+      given-names: "Seunghyun"
+    - family-names: "Baek"
+      given-names: "Insuck"
+    - family-names: "Kim"
+      given-names: "Moon S."
+    - family-names: "Meinhardt"
+      given-names: "Lyndel W."
+  year: 2026
+  status: "manuscript under revision"
